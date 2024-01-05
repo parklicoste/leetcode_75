@@ -1,7 +1,7 @@
-# leetcode_75
-# Solving 75 Problems for leetcode
+# Leetcode 75
+## Solving 75 Problems for leetcode
 
-Checkout my profile on leetcode - www.leetcode.com/parklicoste/
-/162. Find peak Element Solved
-/875. Koko Eating bananas
-/17.  Letter Combinations of a Phone Number
+Checkout my profile on leetcode - www.leetcode.com/parklicoste/ <br>
+162. Find peak Element Solved <br>
+875. Koko Eating bananas <br>
+17.  Letter Combinations of a Phone Number <br>
