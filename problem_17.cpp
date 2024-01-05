@@ -33,3 +33,34 @@ public:
         return ans;
     }
 };
+
+/* ------ Approach 2 ---- */
+/* Backtracking*/
+class Solution {
+public:
+    vector<string> result;
+    vector<string> key = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+
+    void solve(string& temp, string& digits, int idx){
+        if(idx >= digits.length()){
+            result.push_back(temp);
+            return;
+        }
+        int x = digits[idx] - '0';
+        string s = key[x];
+
+        for(int i=0; i<s.length(); i++){
+            temp.push_back(s[i]);
+            solve(temp, digits, idx+1);
+            temp.pop_back();
+        }
+    }
+
+    vector<string> letterCombinations(string digits) {
+        if (digits == "") return {};
+        string ans;
+        solve(ans, digits, 0);
+        return result;
+
+    }
+};
