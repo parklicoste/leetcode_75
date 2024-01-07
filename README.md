@@ -7,3 +7,4 @@ Checkout my profile on leetcode - www.leetcode.com/parklicoste/ <br>
 17.  Letter Combinations of a Phone Number  <br>
 216. Combination Sum III <br>
 1137. N-th Tribonacci Number <br>
+746. Min cost Climbing Stairs <br>
