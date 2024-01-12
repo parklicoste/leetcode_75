@@ -30,4 +30,5 @@ public:
                 return countPaths(m, n, i+1, j) + countPaths(m, n, i, j+1);
             }
         }
+};
         
