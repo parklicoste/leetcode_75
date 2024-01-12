@@ -11,3 +11,4 @@ Checkout my profile on leetcode - www.leetcode.com/parklicoste/ <br>
 198. House Robber <br>
 790. Domino and tromino tiling <br>
 62. Unique Paths <br>
+1143. Longest Common Subsequence <br>
