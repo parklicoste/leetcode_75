@@ -1,7 +1,7 @@
 /*
 Leetcode 75
 
-17. Letter Combinations of a Phone Number
+790. Domino and Tromino Tiling
 */
 
 /* ------ Approach 1 ---- */
