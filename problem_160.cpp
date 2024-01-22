@@ -1,7 +1,7 @@
 /*
 Leetcode 75
 
-162. Find Peak Element
+160. Find Peak Element
 */
 
 /* ------ Approach 1 ---- */

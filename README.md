@@ -15,3 +15,5 @@ Checkout my profile on leetcode - www.leetcode.com/parklicoste/ <br>
 714. Best Time to Buy and Sell Stock with Transaction Fee <br>
 72. Edit Diatance <br>
 338. Counting bits <br>
+136. Single Number <br>
+1318. Minimum Flips to Make a OR b Equal to c <br>
