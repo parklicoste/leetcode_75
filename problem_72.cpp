@@ -1,7 +1,7 @@
 /*
 Leetcode 75
 
-17. Letter Combinations of a Phone Number
+72. Edit Distance
 */
 
 /* ------ Approach 1 ---- */
