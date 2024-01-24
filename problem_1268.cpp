@@ -1,7 +1,7 @@
 /*
 Leetcode 75
 
-17. Letter Combinations of a Phone Number
+1268. Search Suggestions System
 */
 
 /* ------ Approach 1 ---- */
