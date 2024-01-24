@@ -19,3 +19,4 @@ Checkout my profile on leetcode - www.leetcode.com/parklicoste/ <br>
 1318. Minimum Flips to Make a OR b Equal to c <br>
 208. Implement Trie (Prefix Tree) <br>
 1268. Search Suggestions System <br>
+435. Non-Overlapping Intervals <br>
